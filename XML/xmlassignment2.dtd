@@ -1,0 +1,8 @@
+<!DOCTYPE document[
+<!ELEMENT cd (name,type,author,size,pages)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT pages (#PCDATA)>
+]>

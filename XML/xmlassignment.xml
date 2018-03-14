@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xmlassignment1.xsl"?>
+<!DOCTYPE document SYSTEM "xmlassignment2.dtd">
+
+<document>
+  <cd>
+    <name>Empire Burlesque</name>
+    <type>txt</type>
+    <author>Kingsmen</author>
+    <size>30 KB</size>
+    <pages>90</pages>
+  </cd>
+  <cd>
+    <name>Empire</name>
+    <type>png</type>
+    <author>Brook</author>
+    <size>20 KB</size>
+    <pages>300</pages>
+  </cd>
+  <cd>
+    <name>Burlesque</name>
+    <type>jpeg</type>
+    <author>Mens</author>
+    <size>90 KB</size>
+    <pages>900</pages>
+  </cd>
+  <cd>
+    <name>Detain</name>
+    <type>png</type>
+    <author>prasad</author>
+    <size>200 KB</size>
+    <pages>409</pages>
+  </cd>
+  <cd>
+    <name>DellDocs</name>
+    <type>pdf</type>
+    <author>DellOwner</author>
+    <size>2 MB</size>
+    <pages>90</pages>
+  </cd>
+  <cd>
+    <name>SchoolDocs</name>
+    <type>txt</type>
+    <author>Kingsmen</author>
+    <size>300 KB</size>
+    <pages>234</pages>
+  </cd>
+    <cd>
+    <name>Docs</name>
+    <type>pdf</type>
+    <author>Mohan</author>
+    <size>3 MB</size>
+    <pages>120</pages>
+  </cd>
+    <cd>
+    <name>PythonDocumentation</name>
+    <type>pdf</type>
+    <author>VanRossum</author>
+    <size>25 MB</size>
+    <pages>405</pages>
+  </cd>
+</document>
+
+
+
